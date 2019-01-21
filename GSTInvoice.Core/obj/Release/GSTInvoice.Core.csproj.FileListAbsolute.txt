@@ -1,0 +1,9 @@
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Core\bin\Release\GSTInvoice.Core.dll.config
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Core\bin\Release\GSTInvoice.Core.dll
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Core\bin\Release\GSTInvoice.Core.pdb
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Core\bin\Release\EntityFramework.dll
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Core\bin\Release\EntityFramework.SqlServer.dll
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Core\bin\Release\EntityFramework.xml
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Core\bin\Release\EntityFramework.SqlServer.xml
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Core\obj\Release\GSTInvoice.Core.dll
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Core\obj\Release\GSTInvoice.Core.pdb

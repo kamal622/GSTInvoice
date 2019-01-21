@@ -1,0 +1,12 @@
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Data\bin\Release\GSTInvoice.Data.dll.config
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Data\bin\Release\GSTInvoice.Data.dll
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Data\bin\Release\GSTInvoice.Data.pdb
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Data\bin\Release\EntityFramework.dll
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Data\bin\Release\GSTInvoice.Core.dll
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Data\bin\Release\GSTInvoice.Core.pdb
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Data\bin\Release\EntityFramework.xml
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Data\obj\Release\GSTInvoice.Data.csprojResolveAssemblyReference.cache
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Data\obj\Release\GSTInvoice.Data.dll
+D:\Users\Kamal\ProSVN\GSTInvoice\GSTInvoice.Data\obj\Release\GSTInvoice.Data.pdb
